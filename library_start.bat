@@ -1,0 +1,1 @@
+START /MIN "Book Library Room" "C:\Users\PietroDomi\Documents\Scripts\bocconi_library_room_reservation\library_run.bat" && exit
